@@ -19,13 +19,13 @@ To get an overview of our stack goto https://www.foomo.org/docs/projects/archite
 
 https://www.foomo.org/docs/frontend/intro
 
-- use [gotsrpc](gotsrpc) clients to call Go services
+- use [gotsrpc](https://github.com/foomo/gotsrpc) clients to call Go services
 
 ### backend developers
 
 https://www.foomo.org/docs/backend/intro
 
-- write rpc services with [gotsrpc](gotsrpc) and
+- write rpc services with [gotsrpc](https://github.com/foomo/gotsrpc) and
   - expose them to other Go services
   - expose them to TypeScript consumers
   - consume other Go services
@@ -34,7 +34,7 @@ https://www.foomo.org/docs/backend/intro
 
 https://www.foomo.org/docs/devops/intro
 
-- build and orchestrate services in your k8s cluster with [squadron](squadron)
+- build and orchestrate services in your k8s cluster with [squadron](https://github.com/foomo/squadron)
 
 ### Contentful devs
 
